@@ -1,5 +1,0 @@
-C:/IPS 2022/Design_basics/sfml1.1/CMakeFiles/edit_cache.dir
-C:/IPS 2022/Design_basics/sfml1.1/CMakeFiles/rebuild_cache.dir
-C:/IPS 2022/Design_basics/sfml1.1/1/CMakeFiles/rebuild_cache.dir
-C:/IPS 2022/Design_basics/sfml1.1/1/CMakeFiles/1.dir
-C:/IPS 2022/Design_basics/sfml1.1/1/CMakeFiles/edit_cache.dir
